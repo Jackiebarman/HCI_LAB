@@ -1,3 +1,3 @@
 # HCI_LAB
-HCI
 HCI ASSIGNMENT TO IMPLEMENT FITT'S LAW AND HYMEN"S LAW
+RUN index.html for implementation
